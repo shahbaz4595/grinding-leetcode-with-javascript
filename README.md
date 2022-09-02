@@ -15,6 +15,6 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
 2. Study Plan
     - Programming Skill I
         - Day 1
-            - [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/?envType=study-plan&id=programming-skills-i)
-            - [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/?envType=study-plan&id=programming-skills-i)
+            - Count Odd Numbers in an Interval Range
+            - Average Salary Excluding the Minimum and Maximum Salary
 

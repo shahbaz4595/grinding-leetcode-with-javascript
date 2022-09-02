@@ -25,10 +25,7 @@ Constraints:
 
 */
 
-var runningSum = function(nums) {
+const runningSum = nums => {
     let currentSum = 0;
-    return nums.map(item => { 
-        currentSum = item + currentSum;
-        return currentSum;
-    })
+    return nums.map(item => currentSum = item + currentSum)
 };

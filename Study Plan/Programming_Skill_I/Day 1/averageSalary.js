@@ -25,6 +25,6 @@ Constraints:
 */
 
 const average = salary => {
-    const sortedArray = salary.sort((a,b) => a - b).slice(1, -1);
-    return sortedArray.reduce((sum, curr) => sum + curr, 0) / sortedArray.length;
+    const sortedSalaryWithoutMinMax = salary.sort((a,b) => a - b).slice(1, -1);
+    return sortedSalaryWithoutMinMax.reduce((sum, current) => sum + current, 0) / sortedSalaryWithoutMinMax.length;
 };

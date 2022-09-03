@@ -17,4 +17,7 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
         - Day 1
             - Count Odd Numbers in an Interval Range
             - Average Salary Excluding the Minimum and Maximum Salary
+        - Day 2
+            - Number of 1 Bits (Hammig Weight)
+            - Subtract the Product and Sum of Digits of an Integer
 

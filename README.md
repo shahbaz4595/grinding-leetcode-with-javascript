@@ -20,4 +20,7 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
         - Day 2
             - Number of 1 Bits (Hamming Weight)
             - Subtract the Product and Sum of Digits of an Integer
+        - Day 3
+            - Largest Perimeter Triangle
+            - Find Nearest Point That Has the Same X or Y Coordinate
 

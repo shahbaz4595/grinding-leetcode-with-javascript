@@ -23,4 +23,9 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
         - Day 3
             - Largest Perimeter Triangle
             - Find Nearest Point That Has the Same X or Y Coordinate
+        - Day 4
+            - Sign of the Product of an Array
+            - Can Make Arithmetic Progression From Sequence
+            - Happy Number
+            - Check if One String Swap Can Make Strings Equal
 

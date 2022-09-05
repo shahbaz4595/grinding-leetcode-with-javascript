@@ -1,4 +1,4 @@
-# JavaScript Leetcode Coding Chanllenges
+# JavaScript Leetcode Coding Challenges
 
 This repository contains Leetcode problems and their solutions in JavaScript.
 The repository is for education purpose and it's being maintained by [Shahbaz Khan](https://www.shahbazkhan.in)

@@ -32,4 +32,5 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
     - Data Strcuture
         - Day 1
             - Contains Duplicate
+            - Maximum Subarray
 

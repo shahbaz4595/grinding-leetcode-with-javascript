@@ -28,4 +28,8 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
             - Can Make Arithmetic Progression From Sequence
             - Happy Number
             - Check if One String Swap Can Make Strings Equal
+    
+    - Data Strcuture
+        - Day 1
+            - Contains Duplicate
 

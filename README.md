@@ -12,25 +12,26 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
     - Fizz Buzz
     - Number of Steps to Reduce a Number to Zero
 
-2. Study Plan
-    - Programming Skill I
-        - Day 1
-            - Count Odd Numbers in an Interval Range
-            - Average Salary Excluding the Minimum and Maximum Salary
-        - Day 2
-            - Number of 1 Bits (Hamming Weight)
-            - Subtract the Product and Sum of Digits of an Integer
-        - Day 3
-            - Largest Perimeter Triangle
-            - Find Nearest Point That Has the Same X or Y Coordinate
-        - Day 4
-            - Sign of the Product of an Array
-            - Can Make Arithmetic Progression From Sequence
-            - Happy Number
-            - Check if One String Swap Can Make Strings Equal
+2.  Programming Skill I
+    - Day 1
+        - Count Odd Numbers in an Interval Range
+        - Average Salary Excluding the Minimum and Maximum Salary
+    - Day 2
+        - Number of 1 Bits (Hamming Weight)
+        - Subtract the Product and Sum of Digits of an Integer
+    - Day 3
+        - Largest Perimeter Triangle
+        - Find Nearest Point That Has the Same X or Y Coordinate
+    - Day 4
+        - Sign of the Product of an Array
+        - Can Make Arithmetic Progression From Sequence
+        - Happy Number
+        - Check if One String Swap Can Make Strings Equal
     
-    - Data Strcuture
-        - Day 1
-            - Contains Duplicate
-            - Maximum Subarray
+3.  Data Strcuture
+    - Day 1
+        - Contains Duplicate
+        - Maximum Subarray
+    - Day 2
+        - Two Sum
 

@@ -35,4 +35,7 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
     - Day 2
         - Two Sum
         - Merge Sorted Array
+    - Day 3
+        - Intersection of Two Arrays II
+        - Best Time to Buy and Sell Stock
 

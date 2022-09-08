@@ -34,4 +34,5 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
         - Maximum Subarray
     - Day 2
         - Two Sum
+        - Merge Sorted Array
 

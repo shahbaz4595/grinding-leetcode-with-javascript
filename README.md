@@ -27,6 +27,8 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
         - Can Make Arithmetic Progression From Sequence
         - Happy Number
         - Check if One String Swap Can Make Strings Equal
+    - Day 5
+        - Next Greater Element I
     
 3.  Data Strcuture
     - Day 1

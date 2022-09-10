@@ -42,4 +42,5 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
         - Best Time to Buy and Sell Stock
     - Day 4
         - Reshape the Matrix
+        - Pascal's Triangle
 

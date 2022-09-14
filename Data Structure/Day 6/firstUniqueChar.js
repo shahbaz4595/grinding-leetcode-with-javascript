@@ -25,15 +25,13 @@ Constraints:
 const firstUniqChar = str => {
     const map = new Map();
     for (let charIndex = 0; charIndex < str.length; charIndex++) {
-        if (map.has(str[charIndex])) {
-            let currentCount = map.get(str[charIndex]).count;
-            map.set(str[charIndex], {count: currentCount + 1, index: charIndex})
-        }
-        else map.set(str[charIndex], {count: 1, index: charIndex});
+        map.has(str[charIndex]) ?
+        map.set(str[charIndex], {count: ++map.get(str[charIndex]).count, index: charIndex}) :
+        map.set(str[charIndex], {count: 1, index: charIndex});
     }
     
-   for (let key of map.values()) {
-       if (key.count === 1) return key.index;
+   for (let value of map.values()) {
+       if (value.count === 1) return value.index;
    }
-    return - 1;
+    return -1;
 };

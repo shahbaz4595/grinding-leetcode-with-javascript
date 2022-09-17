@@ -43,6 +43,8 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
     - Day 4
         - Reshape the Matrix
         - Pascal's Triangle
+    - Day 5
+        - Search a 2D Matrix
     - Day 6
         - First Unique Character in a String
 

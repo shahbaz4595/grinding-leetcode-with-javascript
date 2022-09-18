@@ -48,3 +48,7 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
     - Day 6
         - First Unique Character in a String
 
+4. Daily Challenges
+    - Easy
+        - Valid Palindrome
+

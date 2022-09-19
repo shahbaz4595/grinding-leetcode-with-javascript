@@ -51,4 +51,5 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
 4. Daily Challenges
     - Easy
         - Valid Palindrome
+        - Single Number
 

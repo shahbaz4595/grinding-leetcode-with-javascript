@@ -52,4 +52,5 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
     - Easy
         - Valid Palindrome
         - Single Number
+        - Remove Duplicates from Sorted Array
 

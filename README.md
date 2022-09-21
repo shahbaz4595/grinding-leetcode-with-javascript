@@ -13,10 +13,10 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
     - Number of Steps to Reduce a Number to Zero
 
 ###  Programming Skill I
-    - *Day 1*
+    - Day 1
         - Count Odd Numbers in an Interval Range
         - Average Salary Excluding the Minimum and Maximum Salary
-    - *Day 2*
+    - Day 2
         - Number of 1 Bits (Hamming Weight)
         - Subtract the Product and Sum of Digits of an Integer
     - Day 3

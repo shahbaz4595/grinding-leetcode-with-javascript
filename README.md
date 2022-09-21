@@ -53,4 +53,6 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
         - Valid Palindrome
         - Single Number
         - Remove Duplicates from Sorted Array
+    - Medium
+        - Longest Substring Without Repeating Characters
 

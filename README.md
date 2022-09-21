@@ -5,18 +5,18 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
 
 ## Table of Content
 
-1. Leetcode Beginners Guide
+### Leetcode Beginners Guide
     - Add Two Integers 
     - Running Sum of 1d Array
     - Richest Customer Wealth
     - Fizz Buzz
     - Number of Steps to Reduce a Number to Zero
 
-2.  Programming Skill I
-    - Day 1
+###  Programming Skill I
+    - *Day 1*
         - Count Odd Numbers in an Interval Range
         - Average Salary Excluding the Minimum and Maximum Salary
-    - Day 2
+    - *Day 2*
         - Number of 1 Bits (Hamming Weight)
         - Subtract the Product and Sum of Digits of an Integer
     - Day 3
@@ -30,7 +30,7 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
     - Day 5
         - Next Greater Element I
     
-3.  Data Strcuture
+###  Data Strcuture
     - Day 1
         - Contains Duplicate
         - Maximum Subarray
@@ -48,7 +48,7 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
     - Day 6
         - First Unique Character in a String
 
-4. Daily Challenges
+### Daily Challenges
     - Easy
         - Valid Palindrome
         - Single Number

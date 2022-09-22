@@ -55,4 +55,6 @@ The repository is for education purpose and it's being maintained by [Shahbaz Kh
         - Remove Duplicates from Sorted Array
     - Medium
         - Longest Substring Without Repeating Characters
+    - Hard
+        - Median of Two Sorted Arrays
 
